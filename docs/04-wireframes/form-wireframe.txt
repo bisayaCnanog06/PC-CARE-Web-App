@@ -1,0 +1,15 @@
+ADD REPAIR TICKET
+┌───────────────────────────────────────────────┐
+│ Ticket ID    [Assigned when connected]        │
+│ Computer *   [Choose asset tag / computer v]  │
+│ Reported by *[Choose staff member v]          │
+│ Date reported*[date]                          │
+│ Problem *    [Describe the reported issue   ] │
+│              [Example validation message]     │
+│ Priority *   [Choose priority v]              │
+│ Status *     [Choose current status v]        │
+│                        [Cancel] [Save Ticket] │
+└───────────────────────────────────────────────┘
+
+Required indicators are shown with an asterisk. Dropdown labels are readable
+names; option values illustrate foreign-key IDs.

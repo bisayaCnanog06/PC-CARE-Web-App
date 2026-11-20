@@ -1,0 +1,6 @@
+-- PC CARE seed-data source note
+--
+-- The authoritative database schema and seed records were not supplied.
+-- This file intentionally contains no INSERT statements. The static examples
+-- in prototype/list.html are fictional UI samples and are not database seed
+-- data. Add approved seed statements only after confirming the actual schema.

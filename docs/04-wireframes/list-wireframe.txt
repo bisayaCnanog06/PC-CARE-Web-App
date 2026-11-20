@@ -1,0 +1,13 @@
+REPAIR TICKETS — DESKTOP
+┌────────────────────┬──────────────────────────────────────────────────────────┐
+│ PC CARE            │ Repair Tickets                         [+ Add Ticket]    │
+│ Dashboard          │ Search [________________] Status [All v] Priority [All v]│
+│ Repair Tickets     │ ┌─────────┬──────────┬──────────┬────────┬──────┬───────┐│
+│ Computer Inventory │ │ Ticket  │ Computer │ Reporter │ Date   │State │Actions││
+│ Staff Management   │ ├─────────┼──────────┼──────────┼────────┼──────┼───────┤│
+│ Maintenance        │ │ rows of static example records ...       View/Edit/...││
+│ Parts Inventory    │ └─────────┴──────────┴──────────┴────────┴──────┴───────┘│
+└────────────────────┴──────────────────────────────────────────────────────────┘
+
+At narrow widths, navigation wraps above the content and each table row becomes
+a labeled card. An empty-state example appears below the sample table.

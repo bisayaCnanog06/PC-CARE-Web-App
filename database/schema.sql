@@ -1,0 +1,13 @@
+-- PC CARE schema source note
+--
+-- The authoritative SQL schema was not included in the project folder.
+-- Do not treat this file as executable DDL.
+--
+-- The assignment names these existing tables:
+-- LABORATORY, COMPUTER, REPAIR_TICKET, STAFF, REPAIR_ASSIGNMENT,
+-- MAINTENANCE_SCHEDULE, STATUS_HISTORY, REPAIR_ACTIVITY, PARTS, TICKET_PARTS.
+--
+-- A nearby proposal deck describes provisional REPAIR_TICKET fields:
+-- Ticket_ID, Computer_ID, Reported_By, Date_Reported, Problem, Priority,
+-- Current_Status. Another 10-table proposal uses different ticket columns.
+-- Obtain the authoritative SQL before defining columns, keys, or constraints.
